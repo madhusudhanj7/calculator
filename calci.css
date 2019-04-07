@@ -1,0 +1,67 @@
+p {
+  font-size: 12px;
+}
+
+.border {
+  border: 1px solid #ccc;
+  width: 250px;
+  height: 55px;
+  background: rgb(185, 182, 182);
+  border-radius: 8px;
+  margin-bottom: 17px;
+  margin-top: 17px;
+}
+
+.calcbuttons {
+  padding: 10px;
+  color: black;
+}
+
+.numberbutton {
+  width: 53px;
+  height: 35px;
+  color: black;
+  font-size: 20px;
+}
+
+.operationbutton {
+  width: 53px;
+  height: 35px;
+  color: black;
+  font-size: 20px;
+}
+
+.operationbuttonEqual {
+  background-color: rgb(214, 90, 45);
+  width: 53px;
+  height: 35px;
+  border-radius: 3px;
+  color: white;
+  font-size: 20px;
+}
+
+.clearbutton {
+  width: 228px;
+  /* background-color: crimson; */
+  color: black;
+  font-size: 17px;
+}
+
+.output {
+  /* background-color: rgb(8, 4, 4); */
+  color: rgb(10, 10, 10);
+  font-family: "Courier New", Courier;
+  padding: 0 10px;
+  text-align: right;
+  font-size: 15px;
+  border-radius: 20px;
+
+}
+
+.calcbody {
+  background: rgb(73, 71, 71);
+  width: 250px;
+  padding: 10px;
+  box-shadow: 10px 10px 10px #140101;
+  border-radius: 15px;
+}
